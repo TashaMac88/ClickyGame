@@ -1,0 +1,76 @@
+
+
+[
+   {
+     "id": 1,
+    "name": "Snoopy",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTfT82-4E7RJ7Fwnopz6vl6Ygc_jK5EC23CfOOCPeQguvP4Xrww",
+    "clicked": false
+   },
+   {
+    "id": 2,
+   "name": "Woodstock",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NTREHBjz6Oz6EBmpfH_ETACf-rERFgXJ5fmVGFWxJCFRF8MmFw",
+   "clicked": false
+  },
+  {
+    "id": 3,
+   "name": "Charlie Brown",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EhvdZq6yigfT7eDpX_uce8PK0fij5HkShYOsm9sqV7_ysPw-",
+   "clicked": false
+  },
+  {
+    "id": 4,
+   "name": "Linus",
+   "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/linus-van-pelt-be-my-valentine-charlie-brown-85.2.jpg",
+   "clicked": false
+  },
+  {
+    "id": 5,
+   "name": "Schreoder",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-IijDU-4Tj9ZnJlp1tSxUKZ8laShNQY2TD44iY6mAghzk9wj",
+   "clicked": false
+  },
+  {
+    "id": 6,
+   "name": "Sally",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1rgXLQIWKarWuWx1Bp1wHTi-sQUrVkARr4IifsyN-IId5cq9nw",
+   "clicked": false
+  },
+  {
+    "id": 7,
+   "name": "Peppermint Patty",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQuws_gO6L0B4P6feMcYVM0sUWUX_yva-qGPgr3_YMmDwjvRM",
+   "clicked": false
+  },
+  {
+    "id": 8,
+   "name": "Marcie",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpeCM1VgPEWaqFyxoyra-A0llOBa4AdIYUb-8YtMAjO2aWywkYQ",
+   "clicked": false
+  },
+  {
+    "id": 9,
+   "name": "Franklin",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOPihQgnZ6BYQj31g9Srrk6k5XnC83fJTlV_GpkY7Pd6bD_-a",
+   "clicked": false
+  },
+  {
+    "id": 10,
+   "name": "Lucy",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVrr8lTBGyyIZt7s4dTZdhOVgChA2Aij0S_0AizDNYMFQ8VK7",
+   "clicked": false
+  },
+  {
+    "id": 11,
+   "name": "Joe Cool",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9-OpudtA5AeBCuAy-cucWP3I8HrRwB9Ir3paeMCr3bAtSD38nQ",
+   "clicked": false
+  },
+  {
+    "id": 12,
+   "name": "Spike",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-qYkNNznT4Lcw81ToP2-N2nWHl2UFxAAsh_88Z3TvlUPXyPYbw",
+   "clicked": false
+  }
+]
